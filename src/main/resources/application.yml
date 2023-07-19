@@ -1,0 +1,14 @@
+swagger2:
+  basic-info:
+    license: Swagger2.license:Apache License Version 2.0
+    license-url: Swagger2.license:http://www.apache.org/licenses/LICENSE-2.0
+    title: Swagger2.title:基础设施智慧监测平台-多源数据抓取在线接口文档
+    description: Swagger2.description:对基础设施智慧监测平台后端的API接口进行说明
+    contact-name: Swagger2.contact.name:WJD
+    contact-email: Swagger2.contact.email:1770411895@qq.com
+    contact-url: Swagger2.contact.url:/swagger2
+    version: Swagger2.version:2.0
+    base-package: Swagger2.base.package:cn.com.cdg.hsjc
+spring:
+  profiles:
+    active: dev
